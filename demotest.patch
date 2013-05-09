@@ -1,0 +1,41 @@
+From a0516fd77fbd7e1f76b1eb069dbf0dc942d18144 Mon Sep 17 00:00:00 2001
+From: shyam <shyamcookies@gmail.com>
+Date: Mon, 6 May 2013 15:47:13 +0530
+Subject: [PATCH 1/2] demotest secon line added
+
+---
+ demotest |    1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/demotest b/demotest
+index bed9131..0778149 100644
+--- a/demotest
++++ b/demotest
+@@ -1 +1,2 @@
+ Demo Test
++lines added from branch 
+-- 
+1.7.9.5
+
+
+From 91e5138280d68fabfeb657c646beb6b0f3d06bc0 Mon Sep 17 00:00:00 2001
+From: shyam <shyamcookies@gmail.com>
+Date: Mon, 6 May 2013 15:48:54 +0530
+Subject: [PATCH 2/2] demotest fourth line added
+
+---
+ demotest |    2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/demotest b/demotest
+index 0778149..0f93a66 100644
+--- a/demotest
++++ b/demotest
+@@ -1,2 +1,4 @@
+ Demo Test
+ lines added from branch 
++
++fourth line added
+-- 
+1.7.9.5
+
